@@ -5,10 +5,10 @@ The goal of this project is to create and run a simulation using a pre-existing 
 # Installation
 To run this project, you will need to install the Bibite environment and a text editor for editing the Bibite neural networks.
 
-Bibite environment: https://leocaussan.itch.io/the-bibites
-/Text editor: https://www.sublimetext.com/
+Bibite environment: https://leocaussan.itch.io/the-bibites  
+Text editor: https://www.sublimetext.com/  
 
-/This experiment was run in a Windows 11 environment. It has not been tested on other OS systems.
+This experiment was run in a Windows 11 environment. It has not been tested on other OS systems.
 
 # Usage
 
