@@ -6,8 +6,9 @@ The goal of this project is to create and run a simulation using a pre-existing 
 To run this project, you will need to install the Bibite environment and a text editor for editing the Bibite neural networks.
 
 Bibite environment: https://leocaussan.itch.io/the-bibites
-Text editor: https://www.sublimetext.com/
-This experiment was run in a Windows 11 environment. It has not been tested on other OS systems.
+\Text editor: https://www.sublimetext.com/
+
+\This experiment was run in a Windows 11 environment. It has not been tested on other OS systems.
 
 # Usage
 
@@ -23,13 +24,13 @@ Edit the Bibite's neurons again, and repeat steps 5-7 as desired.
 
 Initial Bibite State: ![Bibite Initial](https://user-images.githubusercontent.com/90361669/206875775-8e73e0c5-f84d-4e53-8bf8-0137aa917e9c.gif)
 
-Spinning:![Spin](https://user-images.githubusercontent.com/90361669/206875780-8e753c9e-ff99-4a58-b080-3b4a570b9b4b.gif)
+Spinning![Spin](https://user-images.githubusercontent.com/90361669/206875780-8e753c9e-ff99-4a58-b080-3b4a570b9b4b.gif)
 
 Gathering:![Gathering and Running](https://user-images.githubusercontent.com/90361669/206875798-c45d52da-39bb-4455-9352-1cbce806bb84.gif)
 
-Speed and Eating:![Speed and Eating](https://user-images.githubusercontent.com/90361669/206875811-e9c83416-5d1f-4996-b0fb-b5148ca0154d.gif)
+Speed & Eating:![Speed and Eating](https://user-images.githubusercontent.com/90361669/206875811-e9c83416-5d1f-4996-b0fb-b5148ca0154d.gif)
 
-Predator class introduced:![Predator Introduced](https://user-images.githubusercontent.com/90361669/206876026-83144c4a-3221-4a92-baa6-ea071c7367c9.gif)
+Predator class:![Predator Introduced](https://user-images.githubusercontent.com/90361669/206876026-83144c4a-3221-4a92-baa6-ea071c7367c9.gif)
 
 Species Evolves:![Learning to eat meat and Evolve](https://user-images.githubusercontent.com/90361669/206875829-14e6c3ec-8e0a-4c4c-851d-3407cb55998c.gif)
 
