@@ -39,5 +39,5 @@ Where it ended:![Where it Ended](https://user-images.githubusercontent.com/90361
 # Questions
 For questions about the Bibites, please refer to these sources:
 
-https://the-bibites.fandom.com/wiki/Special:AllPages
+https://the-bibites.fandom.com/wiki/Special:AllPages  
 https://www.reddit.com/r/TheBibites/
