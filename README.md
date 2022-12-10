@@ -1,15 +1,16 @@
-# Bibites-Project
+# Bibites Neural Network Editing Project
 
 The goal of this project is to create and run a simulation using a pre-existing environment of Bibites and examining their behavior after adjusting their neural network connections. The project aims to see how changes to individual neural network values and added connections and nodes affect how the Bibites react in an environment with food and energy consumption. Eventually after editing the neurons of the initial Bibites a predator class was introduced to compare how my initial neuron modifications stacked up. This was my capstone project for completing my AI degree.
 
-Installation
+# Installation
 To run this project, you will need to install the Bibite environment and a text editor for editing the Bibite neural networks.
 
 Bibite environment: https://leocaussan.itch.io/the-bibites
 Text editor: https://www.sublimetext.com/
 This experiment was run in a Windows 11 environment. It has not been tested on other OS systems.
 
-Usage
+# Usage
+
 Download and install the Bibite environment and text editor as described above.
 Download a fresh Bibite from the Bibite environment.
 Open the Bibite environment and create a new simulation.
@@ -18,7 +19,7 @@ Run the simulation and observe the Bibite behavior.
 Note and observe the behavior of the Bibite.
 Edit the Bibite's neurons again, and repeat steps 5-7 as desired.
 
-Examples:
+# Examples:
 
 Initial Bibite State: ![Bibite Initial](https://user-images.githubusercontent.com/90361669/206875775-8e73e0c5-f84d-4e53-8bf8-0137aa917e9c.gif)
 
@@ -34,7 +35,7 @@ Species Evolves:![Learning to eat meat and Evolve](https://user-images.githubuse
 
 Where it ended:![Where it Ended](https://user-images.githubusercontent.com/90361669/206875832-3cae30a8-9a7a-4025-86df-f9111c1ae480.gif)
 
-Questions
+# Questions
 For questions about the Bibites, please refer to these sources:
 
 https://the-bibites.fandom.com/wiki/Special:AllPages
