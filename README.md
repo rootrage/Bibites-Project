@@ -12,13 +12,13 @@ This experiment was run in a Windows 11 environment. It has not been tested on o
 
 # Usage
 
-Download and install the Bibite environment and text editor as described above.
-Download a fresh Bibite from the Bibite environment.
-Open the Bibite environment and create a new simulation.
-Use the text editor to edit the Bibite neural networks as desired.
-Run the simulation and observe the Bibite behavior.
-Note and observe the behavior of the Bibite.
-Edit the Bibite's neurons again, and repeat steps 5-7 as desired.
+1. Download and install the Bibite environment and text editor as described above.  
+2. Download a fresh Bibite from the Bibite environment.  
+3. Open the Bibite environment and create a new simulation.  
+4. Use the text editor to edit the Bibite neural networks as desired. This can include editing weights and values of specific traits. Adding new nodes and synapses, and observing the results that follow.    
+5. Run the simulation and observe the Bibite behavior.  
+6. Note and observe the behavior of the Bibite.  
+7. Edit the Bibite's neurons again, and repeat steps 5-7 as desired.  
 
 # Examples:
 
